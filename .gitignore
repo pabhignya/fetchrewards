@@ -1,0 +1,19 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+env/
+venv/
+*.db
+
+# Flask
+instance/
+.pytest_cache/
+*.log
+*.pot
+
+# Docker
+*.dockerfile
+.dockerignore
+
+
